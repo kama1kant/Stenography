@@ -1,1 +1,1 @@
-An application to Encrypt a text & hide it in a image only receiver can Decrypt it.
+An application to Encrypt a text & hide it in a image only receiver can Decrypt it and get the original.
